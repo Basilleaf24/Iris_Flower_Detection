@@ -11,3 +11,6 @@ The Iris dataset has 3 types of Iris species:
 
 The idea of implementing SVM classifier in Python is to use the iris features to train an SVM classifier and use the trained SVM model to predict the Iris species type.
 Flask is used for the deployment.
+
+Deployment link
+https://iris-flower-detection-deploy.herokuapp.com/
